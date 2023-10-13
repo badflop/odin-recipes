@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+h1, h2 {
+   color: rgb(0, 17, 255); 
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    color: blueviolet;
+}
+
+ul {
+    color: rgb(21, 126, 7);
+}
+
+ol {
+    color: brown;
+}
+
+a {
+    color: rgb(8, 130, 90);
+}
